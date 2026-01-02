@@ -1,4 +1,6 @@
-### Version 0.0.1
+### Version 0.0.1 | See [changes](https://github.com/SDFX-Grupe/SmartPage/commits/main/)
+
+---
 
 # Welcome to SmartPage
 
@@ -13,3 +15,7 @@ _Smart Page is programmed in the Markdown language to create a lightweight websi
 5. [Google](https://www.google.com)
 
 ## Start [Explorer.exe](doc/)
+
+---
+
+### [View the repository](https://github.com/SDFX-Grupe/SmartPage) | [SDFX Grupe](https://github.com/SDFX-Grupe) | [View the license](https://github.com/SDFX-Grupe/SmartPage/edit/main/LICENSE)
