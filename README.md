@@ -1,4 +1,8 @@
+### Version 0.0.1
+
 # Welcome to SmartPage
+
+_Smart Page is programmed in the Markdown language to create a lightweight website for older systems and outdated search engines._
 
 ## Lite Search Engines
 
